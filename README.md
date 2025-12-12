@@ -1,4 +1,11 @@
 # Linux Networking Toolkit
+
+![Bash](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+![](Linux-Networking-Toolkit.png)
+
 A lightweight toolkit that provides essential Linux, system, and networking utilities for DevOps.
 
 ## Features
@@ -25,7 +32,7 @@ A lightweight toolkit that provides essential Linux, system, and networking util
 	- `bash netinfo.sh`
 
 - Clean a log file:
-	- `python3 logclean.py sample-logs/app.log
+	- `python3 logclean.py sample-logs/app.log`
 
 ## Requirements
 - Linux environment
