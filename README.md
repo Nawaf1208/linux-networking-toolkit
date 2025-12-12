@@ -1,5 +1,5 @@
 # Linux Networking Toolkit
-A lightweight toolkit that provides essential Linux, system, and networking utilities for DevOps. All scripts are free to run and require no external serviceas.
+A lightweight toolkit that provides essential Linux, system, and networking utilities for DevOps.
 
 ## Features
 - 1.System Health Checker (`syscheck.sh`)
